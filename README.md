@@ -19,12 +19,12 @@ Education
 *Data Science Courses:*  
      Database Concepts, Data Science Foundations, Foundation of Data Analytics, Business Analytics
 
-*Skills:*
+*Skills:*  
      Relational Database Design, SQL, Statistical Analysis, Forecasting
 
 **University of North Carolina at Chapel Hill: Bachelor of Arts in Sociology**
 
-*Concentration:*
+*Focus:*  
      The effects of race, ethnicity, gender, social stratification, and urbanization on education.     
 
 Projects
@@ -44,7 +44,7 @@ Work Experience
 *Raleigh Oak Waldorf Charter School, Raleigh, North Carolina (2020 – 2023)*  
      Created lessons infusing Public Waldorf Core Principles and the NC Standard Course of Study for Kindergarten through Second grade students. Infused art and multiple intelligences into direct instruction, skill practice, and assessments.  
 
-**Teacher**
+**Teacher**  
 *VIPKid, Online (2019 – 2023)*  
      Prepared and delivered virtual English immersion classes for children ages 4 to 15 to developing English communication and literacy skills.
 
@@ -52,11 +52,11 @@ Work Experience
 *Legacy Elementary School, Ocala, Florida (2020)*  
      Adapted the language arts curriculum for a range of reading levels from kindergarten to fourth grade. Used data to plan small group fluency, comprehension, writing, vocabulary, and grammar lessons for students with learning disabilities, gifted talents, and social or communicative disabilities. 
 
-**Teacher** 
+**Teacher**  
 *Clifford International Program Kindergarten, Guangzhou, China (2017 – 2019)*  
      Trained teachers on activities to develop writing foundations in young learners. Planned and delivered Manitoba curriculum lessons in an ESL immersion Kindergarten classroom.  
   
-**Language Learning Director**
+**Language Learning Director**  
 *Disney English, Guangzhou and Hangzhou, China (2015 – 2017)*  
      Improved my site's rates of student renewal and teacher turnover. Created high-quality marketing events to gain sales leads each week. Raised academic standards by creating a culture of collaboration and peer observation.  
 *Senior Foreign Trainer (2015)*   
