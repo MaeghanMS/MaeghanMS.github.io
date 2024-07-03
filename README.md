@@ -4,7 +4,7 @@ Learning Analyst
 Education
 ------
 **Columbia University, Teachers College:  Master of Science in Learning Analytics**  
-*Research and Analysis Courses:*  
+*Research and Analysis Courses:*
   - Statistical Inference and Probability
   - Applied Regression
   - Methods of Empirical Research
