@@ -8,7 +8,7 @@ Education
 *Research and Analysis Courses:*  
       Statistical Inference and Probability, Applied Regression, Methods of Empirical Research, Educational Data Management, Data Ethics
    
-*Cognitive Science Courses:*
+*Cognitive Science Courses:*  
      Cognition and Learning, Development of Mathematical Thinking
   
 *Technical Skills:*  
