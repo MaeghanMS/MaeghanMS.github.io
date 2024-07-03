@@ -1,4 +1,4 @@
-Learning Analyst
+<p style="text-align: center;">Learning Analyst</p>
 ======
 
 Education
