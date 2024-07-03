@@ -12,19 +12,25 @@ Education
      Cognition and Learning, Development of Mathematical Thinking
   
 *Technical Skills:*  
-     R, Python, Educational Data Mining, Big Data Analysis (including data cleaning, modeling, and visualization)
+     R, Python, SPSS, Educational Data Mining, Big Data Analysis (including data cleaning, modeling, and visualization)
 
-# Colorado State University - Global Campus
-Skills: 
+**Colorado State University - Global Campus**  
+  
+*Data Science Courses:*  
+     Database Concepts, Data Science Foundations, Foundation of Data Analytics, Business Analytics
+
+*Skills:*
+     Relational Database Design, SQL, Statistical Analysis, Forecasting
+
+**University of North Carolina at Chapel Hill: Bachelor of Arts in Sociology**
+
+*Concentration:*
+     The effects of race, ethnicity, gender, social stratification, and urbanization on education.     
+
 ### Work Experience
 
 ### Projects
-Teachers College at Columbia University, 2023-2024 (Expected Graduation) 
-• Master of Science in Learning Analytics 
-• Skills: Python, R, Educational Data Mining, Big Data Analysis (including data cleaning, modeling, and visualization) 
-Colorado State University - Global Campus, 2019-2021 
-• Courses: Database Concepts, Data Science Foundations, Foundation of Data Analytics, Business Analytics 
-• Skills: Relational Database Design, SQL, Statistical Analysis, Forecasting 
+
 University of North Carolina at Chapel Hill, 2005-2009 
 • Bachelor of Arts in Sociology 
 _________________________________________________________________________________________ 
