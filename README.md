@@ -34,51 +34,43 @@ Work Experience
       Clean, analyze, and use data to create visualizations to aid school leaders in making equity-focused school improvement decisions.
   
 **The Reading Team, New York, New York**  
-*Reading Specialist (2024)* 
+*Reading Specialist (2024)*  
      Manage and implement engaging interventions for K-5 students behind in reading. In Spring of 2024, boosted overall student reading achievement, with 50% of students reaching benchmark levels within six months.  
 
-**Raleigh Oak Charter School, Raleigh, North Carolina**  
-*Teacher (2020 – 2023)*
-• Looped with a group of students for their Kindergarten, First Grade, and Second Grade years  
-• Created lessons that fused Public Waldorf Core Principles and NC Standard Course of Study 
-• Infused art and multiple intelligences into direct instruction, skill practice, and assessments 
-Legacy Elementary School, Marion County Public Schools, Ocala, Florida 
-Third Grade Language Arts Teacher (January 2020 – June 2020) 
-• Adapted the language arts curriculum for a range of reading levels from kindergarten to fourth grade 
-• Used data to plan small group fluency, comprehension, writing, vocabulary, and grammar lessons 
-• Fostered a growth mindset and cooperative learning environment for students with learning disabilities, gifted talents, 
-and social or communicative disabilities 
-VIPKid, Online 
-Teacher (July 2019 – August 2023) 
-• Prepare and deliver individual online English immersion classes 
-• Guide children ages 4 to 15 in developing English communication and literacy 
-Clifford International Program Kindergarten, Guangzhou, China 
-Kindergarten Teacher (March 2017 – July 2019)  
-• Planned and delivered Manitoba curriculum lessons in an ESL immersion Kindergarten classroom  
-• Trained teachers on using balanced literacy to develop reading foundations in young learners 
-Disney English, Guangzhou and Hangzhou, China 
-Language Learning Director (September 2015 – February 2017) 
-• Improved the center’s rates of student renewal and teacher turnover 
-• Created high-quality marketing events to gain sales leads each week 
-• Raised the center’s academic standards by creating a culture of collaboration and peer observation 
-Senior Foreign Trainer (January 2015 – September 2015) 
-• Delivered on-going training to improve academic and guest service quality 
-• Observed and coached trainers to improve students’ English language learning 
-Foreign Trainer (December 2012 – December 2014) 
-• Taught Chinese learners, ages 3-12, to confidently communicate in English 
-• Promoted Disney English by providing excellent customer service to all guests 
-Charlotte Mecklenburg Schools, Chantilly Montessori School, Charlotte, NC 
-Full-Time Teacher’s Assistant (August 2010 – November 2012) 
-• Presented Montessori lessons for Pre-K through 6th grade students in all subjects 
-• Evaluated student progress and developed strategies with lead teacher 
-Camp Royall, Moncure, NC 
-Counselor (May 2010 – January 2012) 
-• Led children and adults with Autism through daily camp activities 
-• Initiated and followed behavior plans 
-Activity Director (January 2012 – November 2012) 
-• Planned, executed, and adapted various programs for individuals with Autism 
-• Trained and empowered counselors through support, feedback, and evaluations 
+**Raleigh Oak Waldorf Charter School, Raleigh, North Carolina**  
+*Teacher (2020 – 2023)*  
+     Created lessons infusing Public Waldorf Core Principles and the NC Standard Course of Study for Kindergarten through Second grade students. Infused art and multiple intelligences into direct instruction, skill practice, and assessments.  
 
+**VIPKid, Online**
+*Teacher (2019 – 2023)*  
+     Prepared and delivered virtual English immersion classes for children ages 4 to 15 to developing English communication and literacy skills.
+
+**Legacy Elementary School, Ocala, Florida**  
+*Teacher (2020)*  
+     Adapted the language arts curriculum for a range of reading levels from kindergarten to fourth grade. Used data to plan small group fluency, comprehension, writing, vocabulary, and grammar lessons for students with learning disabilities, gifted talents, and social or communicative disabilities. 
+
+**Clifford International Program Kindergarten, Guangzhou, China** 
+*Teacher (2017 – 2019)*  
+     Trained teachers on activities to develop writing foundations in young learners. Planned and delivered Manitoba curriculum lessons in an ESL immersion Kindergarten classroom.  
+  
+**Disney English, Guangzhou and Hangzhou, China**
+*Language Learning Director (2015 – 2017)*  
+     Improved my site's rates of student renewal and teacher turnover. Created high-quality marketing events to gain sales leads each week. Raised academic standards by creating a culture of collaboration and peer observation.  
+*Senior Foreign Trainer (2015)*   
+     Delivered on-going training to improve academic and guest service quality. Observed and coached teachers to improve students’ English language learning.  
+*Foreign Trainer (2012 – 2014)*  
+     Taught Chinese learners, ages 3-12, to confidently communicate in English. Promoted Disney English by providing excellent customer service to all guests.    
+  
+**Chantilly Public Montessori School, Charlotte, NC**  
+*Teacher’s Assistant (2010 – 2012)*  
+     Presented Montessori lessons for Pre-K through 6th grade students in all subjects. Evaluated student progress and developed strategies with lead teacher.
+
+**Camp Royall, Moncure, NC**  
+*Activity Director (2012)*  
+     Planned, executed, and adapted various programs for individuals with Autism. Trained and empowered counselors through support, feedback, and evaluations.  
+*Counselor (2010 – 2012)*  
+     Led children and adults with Autism through daily camp activities. Initiated and followed behavior plans.  
+  
 ### Projects
 
 Licenses & Certifications: 
