@@ -29,15 +29,15 @@ Education
 
 Work Experience
 ------
-**Teachers College at Columbia University, New York, New York**
+**Teachers College at Columbia University, New York, New York**  
 *Education Leadership Data Analytics Research Assistant (2024)*  
       Clean, analyze, and use data to create visualizations to aid school leaders in making equity-focused school improvement decisions.
   
-**The Reading Team, New York, New York**
+**The Reading Team, New York, New York**  
 *Reading Specialist (2024)* 
      Manage and implement engaging interventions for K-5 students behind in reading. In Spring of 2024, boosted overall student reading achievement, with 50% of students reaching benchmark levels within six months.  
 
-**Raleigh Oak Charter School, Raleigh, North Carolina**
+**Raleigh Oak Charter School, Raleigh, North Carolina**  
 *Teacher (2020 – 2023)*
 • Looped with a group of students for their Kindergarten, First Grade, and Second Grade years  
 • Created lessons that fused Public Waldorf Core Principles and NC Standard Course of Study 
