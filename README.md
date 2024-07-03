@@ -27,31 +27,18 @@ Education
 *Concentration:*
      The effects of race, ethnicity, gender, social stratification, and urbanization on education.     
 
-### Work Experience
+Work Experience
+------
+**Teachers College at Columbia University, New York, New York**
+*Education Leadership Data Analytics Research Assistant (2024)*  
+      Clean, analyze, and use data to create visualizations to aid school leaders in making equity-focused school improvement decisions.
+  
+**The Reading Team, New York, New York**
+*Reading Specialist (2024)* 
+     Manage and implement engaging interventions for K-5 students behind in reading. In Spring of 2024, boosted overall student reading achievement, with 50% of students reaching benchmark levels within six months.  
 
-### Projects
-
-University of North Carolina at Chapel Hill, 2005-2009 
-• Bachelor of Arts in Sociology 
-_________________________________________________________________________________________ 
-Licenses & Certifications: 
-North Carolina Teaching License, Elementary Education, Pre-K add on, 2020 
-Professional Florida Educator's Certificate, Pre-K to Grade 3, 2018  
-TeacherReady Teacher Certification Program, August 2018  
-CELTA, International House Chiang Mai, February 2016  
-TEFL-C, Teachers College at Columbia University, July 2013 
-_________________________________________________________________________________________ 
-Experience: 
-Teachers College at Columbia University, New York, New York 
-Education Leadership Data Analytics Research Assistant (March 2024 – Present) 
-• Map K-12 equity indicators to open public school datasets 
-• Clean and analyze data to create visualizations for school leaders to improve equity-focused school improvement 
-The Reading Team, New York, New York 
-Reading Specialist (January 2024 – Present) 
-• Manage and implement engaging reading interventions for K-5 students with reading skill deficits 
-• Boosted overall student reading achievement, with 50% reaching benchmark levels within six months. 
-Raleigh Oak Charter School, Raleigh, North Carolina 
-Kindergarten, First Grade, and Second Grade Teacher (August 2020 – July 2023) 
+**Raleigh Oak Charter School, Raleigh, North Carolina**
+*Teacher (2020 – 2023)*
 • Looped with a group of students for their Kindergarten, First Grade, and Second Grade years  
 • Created lessons that fused Public Waldorf Core Principles and NC Standard Course of Study 
 • Infused art and multiple intelligences into direct instruction, skill practice, and assessments 
@@ -91,6 +78,18 @@ Counselor (May 2010 – January 2012)
 Activity Director (January 2012 – November 2012) 
 • Planned, executed, and adapted various programs for individuals with Autism 
 • Trained and empowered counselors through support, feedback, and evaluations 
+
+### Projects
+
+Licenses & Certifications: 
+North Carolina Teaching License, Elementary Education, Pre-K add on, 2020 
+Professional Florida Educator's Certificate, Pre-K to Grade 3, 2018  
+TeacherReady Teacher Certification Program, August 2018  
+CELTA, International House Chiang Mai, February 2016  
+TEFL-C, Teachers College at Columbia University, July 2013 
+_________________________________________________________________________________________ 
+Experience: 
+
 _________________________________________________________________________________________ 
 Honors:       
 Shirley Chisolm Trailblazer Nominee, Teachers College at Columbia University, 2024 
