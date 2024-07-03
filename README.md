@@ -1,4 +1,4 @@
 # Learning Analyst
 
-###Education
+### Education
 Columbia University, Teachers College, Learning Analytics
