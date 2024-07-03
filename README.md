@@ -9,10 +9,12 @@ Education
 - Applied Regression
 - Methods of Empirical Research
 - Educational Data Management
-- Data Ethics  
+- Data Ethics
+   
 *Cognitive Science Courses:*
 - Cognition and Learning
-- Development of Mathematical Thinking  
+- Development of Mathematical Thinking
+  
 *Technical Skills:*
 - Python
 - R
