@@ -27,46 +27,49 @@ Education
 *Concentration:*
      The effects of race, ethnicity, gender, social stratification, and urbanization on education.     
 
+Projects
+------
+
 Work Experience
 ------
-**Teachers College at Columbia University, New York, New York**  
-*Education Leadership Data Analytics Research Assistant (2024)*  
+**Education Leadership Data Analytics Research Assistant**  
+*Teachers College at Columbia University, New York, New York (2024)*  
       Clean, analyze, and use data to create visualizations to aid school leaders in making equity-focused school improvement decisions.
   
-**The Reading Team, New York, New York**  
-*Reading Specialist (2024)*  
+**Reading Specialist**  
+*The Reading Team, New York, New York (2024)*  
      Manage and implement engaging interventions for K-5 students behind in reading. In Spring of 2024, boosted overall student reading achievement, with 50% of students reaching benchmark levels within six months.  
 
-**Raleigh Oak Waldorf Charter School, Raleigh, North Carolina**  
-*Teacher (2020 – 2023)*  
+**Teacher**  
+*Raleigh Oak Waldorf Charter School, Raleigh, North Carolina (2020 – 2023)*  
      Created lessons infusing Public Waldorf Core Principles and the NC Standard Course of Study for Kindergarten through Second grade students. Infused art and multiple intelligences into direct instruction, skill practice, and assessments.  
 
-**VIPKid, Online**
-*Teacher (2019 – 2023)*  
+**Teacher**
+*VIPKid, Online (2019 – 2023)*  
      Prepared and delivered virtual English immersion classes for children ages 4 to 15 to developing English communication and literacy skills.
 
-**Legacy Elementary School, Ocala, Florida**  
-*Teacher (2020)*  
+**Teacher**  
+*Legacy Elementary School, Ocala, Florida (2020)*  
      Adapted the language arts curriculum for a range of reading levels from kindergarten to fourth grade. Used data to plan small group fluency, comprehension, writing, vocabulary, and grammar lessons for students with learning disabilities, gifted talents, and social or communicative disabilities. 
 
-**Clifford International Program Kindergarten, Guangzhou, China** 
-*Teacher (2017 – 2019)*  
+**Teacher** 
+*Clifford International Program Kindergarten, Guangzhou, China (2017 – 2019)*  
      Trained teachers on activities to develop writing foundations in young learners. Planned and delivered Manitoba curriculum lessons in an ESL immersion Kindergarten classroom.  
   
-**Disney English, Guangzhou and Hangzhou, China**
-*Language Learning Director (2015 – 2017)*  
+**Language Learning Director**
+*Disney English, Guangzhou and Hangzhou, China (2015 – 2017)*  
      Improved my site's rates of student renewal and teacher turnover. Created high-quality marketing events to gain sales leads each week. Raised academic standards by creating a culture of collaboration and peer observation.  
 *Senior Foreign Trainer (2015)*   
      Delivered on-going training to improve academic and guest service quality. Observed and coached teachers to improve students’ English language learning.  
 *Foreign Trainer (2012 – 2014)*  
      Taught Chinese learners, ages 3-12, to confidently communicate in English. Promoted Disney English by providing excellent customer service to all guests.    
   
-**Chantilly Public Montessori School, Charlotte, NC**  
-*Teacher’s Assistant (2010 – 2012)*  
+**Teacher's Assistant**  
+*Chantilly Public Montessori School, Charlotte, NC (2010 – 2012)*  
      Presented Montessori lessons for Pre-K through 6th grade students in all subjects. Evaluated student progress and developed strategies with lead teacher.
 
-**Camp Royall, Moncure, NC**  
-*Activity Director (2012)*  
+**Activity Director**  
+*Camp Royall, Moncure, NC (2012)*  
      Planned, executed, and adapted various programs for individuals with Autism. Trained and empowered counselors through support, feedback, and evaluations.  
 *Counselor (2010 – 2012)*  
      Led children and adults with Autism through daily camp activities. Initiated and followed behavior plans.  
