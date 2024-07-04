@@ -43,7 +43,7 @@ Work Experience
 ------
 **Education Leadership Data Analytics Research Assistant**  
 *Teachers College at Columbia University, New York, New York (2024)*  
-      Clean, analyze, and use data to create visualizations to aid school leaders in making equity-focused school improvement decisions.
+      Clean, analyze, and create visualizations from open public school data to aid school leaders in making equity-focused school improvement decisions.
   
 **Reading Specialist**  
 *The Reading Team, New York, New York (2024)*  
