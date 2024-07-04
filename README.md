@@ -32,7 +32,7 @@ Projects
 **A Snapshot of Computer Science Courses in NYC Public Schools**  
 *Maeghan Sill and Katherine Rojas*  
 *[Python Code, Paper, and Presentation](https://github.com/MaeghanMS/HUDK4050.git)*  
-We used Python to clean and analyze open NYC public school data to answer four research questions about trends in Computer Science course offerings since CS4All was passed in 2015. We shared our findings at NYC School of Data's Open Data Conference in support of Dr. Gulbahar Guven's presentation, "Open Data for Learning Analytics". 
+We used Python to clean and analyze open NYC public school data to answer four research questions about trends in Computer Science course offerings since CS4All was passed in 2015. We shared our findings at NYC School of Data's Open Data Conference in support of Dr. Gulbahar Guven's presentation, "Open Data for Learning Analytics", in March 2024. 
 
 
 Work Experience
