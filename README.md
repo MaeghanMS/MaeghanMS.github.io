@@ -29,7 +29,7 @@ Education
 
 Projects
 ------
-**Comprehensive Assessment of Leadership Learning - Mapping Equity Indicators (CALL-MEI)**
+**Comprehensive Assessment of Leadership Learning - Mapping Equity Indicators (CALL-MEI)**  
 *Research Assistant*
 *Github repository to come*
 
