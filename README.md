@@ -30,7 +30,7 @@ Education
 Projects
 ------
 **Comprehensive Assessment of Leadership Learning - Mapping Equity Indicators (CALL-MEI)**  
-*Research Assistant*
+*Research Assistant*  
 *Github repository to come*
 
 **A Snapshot of Computer Science Courses in NYC Public Schools**  
