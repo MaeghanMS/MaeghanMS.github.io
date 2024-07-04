@@ -14,7 +14,7 @@ Education
 *Technical Skills:*  
      R, Python, SPSS, Educational Data Mining, Big Data Analysis (including data cleaning, modeling, and visualization)
 
-**Colorado State University - Global Campus**  
+**Colorado State University, Global Campus**  
   
 *Data Science Courses:*  
      Database Concepts, Data Science Foundations, Foundation of Data Analytics, Business Analytics
@@ -25,10 +25,14 @@ Education
 **University of North Carolina at Chapel Hill: Bachelor of Arts in Sociology**
 
 *Focus:*  
-     The effects of race, ethnicity, gender, social stratification, and urbanization on education.     
+     The effects of race, ethnicity, gender, social stratification, and urbanization on education in the United States.     
 
 Projects
 ------
+**Comprehensive Assessment of Leadership Learning - Mapping Equity Indicators (CALL-MEI)**
+*Research Assistant*
+*Github repository to come*
+
 **A Snapshot of Computer Science Courses in NYC Public Schools**  
 *Maeghan Sill and Katherine Rojas*  
 *[Python Code, Paper, and Presentation](https://github.com/MaeghanMS/HUDK4050.git)*  
@@ -78,25 +82,15 @@ Work Experience
      Planned, executed, and adapted various programs for individuals with Autism. Trained and empowered counselors through support, feedback, and evaluations.  
 *Counselor (2010 – 2012)*  
      Led children and adults with Autism through daily camp activities. Initiated and followed behavior plans.  
+
+Honors
+------
+Shirley Chisolm Trailblazer Nominee, Teachers College at Columbia University, 2024  
+People Management Excellence Award, Disney English, 2017  
   
-
-Licenses & Certifications: 
-North Carolina Teaching License, Elementary Education, Pre-K add on, 2020 
-Professional Florida Educator's Certificate, Pre-K to Grade 3, 2018  
-TeacherReady Teacher Certification Program, August 2018  
-CELTA, International House Chiang Mai, February 2016  
-TEFL-C, Teachers College at Columbia University, July 2013 
-_________________________________________________________________________________________ 
-Experience: 
-
-_________________________________________________________________________________________ 
-Honors:       
-Shirley Chisolm Trailblazer Nominee, Teachers College at Columbia University, 2024 
-People Management Excellence Award, Disney English, 2017 
-Teacher’s Assistant of the Year, Chantilly Montessori School, 2012 
-_________________________________________________________________________________________ 
-Activities:   
-Student Senator, Teachers College Student Senate, 2023-2024 
-School Improvement Team, Raleigh Oak Charter School, 2022-2023 
-Professional Development Team, Clifford International Kindergarten, 2018-2019  
-Leadership Team, Chantilly Montessori School, 2010-2012
+Activities
+------
+Student Senator, Teachers College Columbia University, 2023-2024  
+School Improvement Team, Raleigh Oak Charter School, 2022-2023  
+Professional Development Team, Clifford International Kindergarten, 2018-2019   
+School Leadership Team, Chantilly Montessori School, 2010-2012  
